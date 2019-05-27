@@ -1,1 +1,1 @@
-# workshop-deep-learning
+# Test for data science candidates
