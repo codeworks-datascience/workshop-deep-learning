@@ -1,1 +1,1 @@
-# Test for data science candidates
+### This repository contains a deep learning test for data science candidates
